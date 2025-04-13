@@ -62,6 +62,7 @@ add_node_config() {
             4 ) NodeType="hysteria" ;;
             5 ) NodeType="hysteria2" ;;
             6 ) NodeType="trojan" ;;
+            7 ) NodeType="tuic" ;;
             * ) NodeType="shadowsocks" ;;
         esac
     fi
